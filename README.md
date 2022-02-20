@@ -13,9 +13,10 @@ Trabajo de muestra para prueba basica de Java
 | + puertas:int     |
 | + noPlaca:string  | 
 | + velocidad:float |
-| + cilindraje:byte   |
+| + cilindraje:byte |
 | + marca:String    |
 | + color:String    |
+| + caracteristicas:String  |
 |-----------------------------------------|
 | + Direccion:(int , int)   |
 | + Freno:(boolean)         |
