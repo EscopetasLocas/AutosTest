@@ -4,7 +4,7 @@ public class Auto{
     public  int puertas;
     public String noPlaca;
     public float velocidad;
-    public boolean faros;
+    public byte cilindraje;
     public String marca;
     public String color;
 
@@ -35,8 +35,16 @@ public class Auto{
         System.out.println("Color: " + color);
         System.out.println("\n");
     }
-    public void ubicacion(String lugar){
-        System.out.println("Usted esta perdido en: " + lugar+"\n");
+    public void acelera(){
+        System.out.println("\n");
     }
-    
+    public void encendido(){
+        System.out.println("\n");
+    }
+    public void apagado(){
+        System.out.println("\n");
+    }
+    public void reversa(){
+        System.out.println("\n");
+    }
 }
